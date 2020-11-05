@@ -22,3 +22,5 @@
 
  }
 ```    
+
+Истользуется в https://github.com/thinksaas/ThinkSAAS и др. (Китай)
